@@ -1,8 +1,8 @@
---- 
+---
 layout: page
-title : Portfolio 
+title : Portfolio
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "School and Side Projects"
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
