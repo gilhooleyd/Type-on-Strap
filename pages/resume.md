@@ -9,9 +9,21 @@ tags: [About]
 
 ## Nvidia
 
-**Systems Software Programmer** -- 2017 - Present
-* Linux Driver development for [NVIDIA Tegra](http://www.nvidia.com/object/tegra.html)
-* Migrated SMMU and HDMI drivers from 3.10 to 4.4 kernel
+**Operating Systems Engineer** -- Oct 2017 - Oct 2018
+* Memory Management Programmer for [NVIDIA Tegra](http://www.nvidia.com/object/tegra.html)
+* Lead Programmer for NVMAP MISRA Re-Work
+	* NVMAP is a Linux driver that performs user space management of driver memory
+	* I was responsible for implementing SOLID practices throughout library
+	* Set up VectorCast for Code Coverage and devised unit test framework
+	* Set up Coverity for Static Analysis and MISRA-C Violations
+	* Worked towards an OAL for Linux/QNX Unification
+* Synchronized NVIDIA Proprietary DMA/SMMU framework with Upstream Linux
+	* Listed and re-implemented features on upstream
+	* Improved performance of upstream driver by 70% for maps and unmaps
+* Point of Contact for Specter Variant 1 code vulnerabilities
+	* Organized and Maintained list of Nvidia specific User/Kernel space boundaries
+	* Created and merged mitigations to various Linux versions
+	* Responsible for monitoring and communicating about new Variant 1 flaws
 
 ## Linode LLC
 
